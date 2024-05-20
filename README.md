@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+##Description
 
-This project is a starting point for a Flutter application.
+A simple interface for displaying a todo list with options to add, delete, and edit tasks.
+Challenges Encountered
 
-A few resources to get you started if this is your first Flutter project:
+   Lack of Advance Notice for the Test Submission: One of the difficulties was not having a scheduled date for the test submission. This affected my ability to organize and prioritize the test in my daily or weekly task list.
+   Lack of Experience with Unit Testing: I do not have prior experience in writing unit tests, which hindered my ability to complete the testing part of the task.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Thank you for giving me the opportunity to take this test.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
